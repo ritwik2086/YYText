@@ -1,0 +1,4 @@
+module YYText {
+    umbrella "/Users/iosteam/Documents/yyText/YYText/YYText"
+    export *
+}
